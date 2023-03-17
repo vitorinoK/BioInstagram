@@ -10,7 +10,9 @@ Na alteração melhorei a fonte, coloquei informação pessoal mais completa.
 -CSS;
 <br>
 -Visual studio code;
-## É possível visualizar o site através do link:
-https://biografialinks.netlify.app/
+## É possível visualizar o site através dos links:
+<strong>Primeira criação:<strong> https://biografialinks.netlify.app/
+<br>
+<strong>Criação com a primeira alteração:<strong> https://linkscontato.netlify.app/
 ### Utilizei também uma plataforma gratuita de hospedagem, segue abaixo meu perfil:
 https://app.netlify.com/teams/kahvitorino/overview
