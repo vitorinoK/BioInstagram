@@ -1,9 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300&display=swap');
+
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   color: rgb(214, 207, 207);
-  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: none;
+  font-weight: lighter;
+  font-family: 'Manrope', sans-serif;
 }
 body{
   background: rgb(255, 4, 29);
@@ -26,18 +32,17 @@ body{
 }
 .bio h1{
   font-size: 30px;
-  text-align: center;
   padding: 1px;
-  font-weight: lighter;
+}
+.bio p{
+  font-size: 18px;
+  text-align: center;
+  height: -10px;
 }
 .bio a{
   font-size: 25px;
-  text-decoration: none;
   width: 100%;
-  text-align: center;
   padding: 15px;
-  text-transform: uppercase;
-  font-weight: lighter;
   border: solid 1px rgb(214, 207, 207);
   border-radius: 30px;
   margin: auto;
